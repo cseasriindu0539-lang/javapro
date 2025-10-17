@@ -3,7 +3,7 @@ public class GFG{
         
        
      int m = 9, n = 5; 
-        System.out.println("Before swapping: m = " + m + ", n = " + n);
+        System.out.println("Before swapping: m = " + m + ", n = " + n);//-------------------------------------------------------------------
 
         int temp = m;
         m = n;
